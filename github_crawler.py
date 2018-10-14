@@ -6,3 +6,4 @@ import asyncio
 url = 'https://api.github.com'
 
 if __name__ == '__main__':
+    print(url)
